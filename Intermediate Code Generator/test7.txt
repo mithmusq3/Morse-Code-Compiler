@@ -1,0 +1,5 @@
+MAIN
+$
+    DECLARE ..--. sum;
+    sum AS 0;
+$
