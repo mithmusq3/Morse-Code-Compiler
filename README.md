@@ -27,7 +27,7 @@ To run the compiler, you will need:
 
 ## About
 
- - This project has the following four phases
+ - This project has the following four phases of compilation
    
    * Lexical Analysis
    * Syntax Analysis
