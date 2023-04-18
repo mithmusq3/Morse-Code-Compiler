@@ -10,13 +10,13 @@ To run the compiler, you will need:
 
 * A computer running Linux
 * Lex and Yacc installed
-  ` sudo apt-get install flex bison `
+  ``` sudo apt-get install flex bison ```
 * GCC (GNU Compiler Collection) installed
-  ` sudo apt install gcc `
+  ``` sudo apt install gcc ```
 
 ### Clone the Repository
 
-  ` git clone https://github.com/mithmusq3/` 
+  ``` git clone https://github.com/mithmusq3/Morse-Code-Compiler ``` 
 
 
 ## About
@@ -33,9 +33,9 @@ To run the compiler, you will need:
  - Navigate to the directory of each phase
  - Use shellscript to automate 
  
-   ` chmod +777 build.sh `
+   ``` chmod +777 build.sh ```
    (To make the script executable)
     
  - Execute by running
-   ` ./build.sh `
+   ``` ./build.sh ```
 
